@@ -8,8 +8,6 @@ Welcome to the Greeting App – a simple Spring Boot project that exposes a REST
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [API Endpoint](#api-endpoint)
-- [How to Run](#how-to-run)
-- [Next Steps](#next-steps)
 
 ## Overview
 
